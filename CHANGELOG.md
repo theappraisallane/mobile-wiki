@@ -1,3 +1,7 @@
+# 1.27.0
+## New
+## Fixed
+
 # 1.26.0
 ## New
 - Moved several methods from `ConditionReportMainPresenter` to `BaseQuestion`, and removed many compiler warnings
